@@ -11,7 +11,7 @@ public class Main {
         Lexicon.put("middag", "dinner");
         Lexicon.put("fantasktisk", "fantastic");
 
-        
+
 
 
 
