@@ -7,7 +7,7 @@ public class Main {
         Map<String, String> Telefonlista = new HashMap<>();
 
 
-        Telefonlista.put("Greta", "543 3431 1533");
+        Telefonlista.put("", "543 3431 1533");
         Telefonlista.put("Karin", "634 2341 2344");
         Telefonlista.put("Kevin", "324 5430 1222");
 
